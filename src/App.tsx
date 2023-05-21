@@ -35,6 +35,7 @@ export const App = () => {
         <Navbar />
         <div className='flex-grow-1'>
           <Switch>
+
             <Route path='/' exact>
               <Redirect to='home' />
             </Route>
@@ -48,15 +49,20 @@ export const App = () => {
               <TopBooks />
             </Route>
             <Route path='/reviewList/:bookId'>
-              <ReviewListPage/>
+              <ReviewListPage />
             </Route>
             <Route path='/checkout/:bookId'>
               <BookCheckoutPage />
             </Route>
-            <Route path='/login' render={() => <LoginWidget config={oktaConfig} />}/>
+            <Route path='/login' render={() => <LoginWidget config={oktaConfig} />} />
             <Route path='/login/callback' component={LoginCallback} />
-            <SecureRoute path='/shelf'><ShelfPage/></SecureRoute>
-            <SecureRoute path='/admin'><ManageLibraryPage/></SecureRoute>
+            <SecureRoute path='/shelf'><ShelfPage /></SecureRoute>
+            <SecureRoute path='/admin'><ManageLibraryPage /></SecureRoute>
+
+            <Route path="*">
+              <Redirect to="/" />
+            </Route>
+
           </Switch>
         </div>
         <Footer />
