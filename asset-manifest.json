@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/fithon-front/static/css/main.65a517a5.css",
+    "main.js": "/fithon-front/static/js/main.f9cf278b.js",
+    "static/media/image-4.jpg": "/fithon-front/static/media/image-4.3e2078d97fb938c45a1f.jpg",
+    "static/media/image-3.jpg": "/fithon-front/static/media/image-3.6c175bd8b5268b47568f.jpg",
+    "static/media/image-2.jpg": "/fithon-front/static/media/image-2.99f697a94ffb0876d62e.jpg",
+    "static/media/image-1.jpg": "/fithon-front/static/media/image-1.cb58f23f2b6257f8514a.jpg",
+    "static/media/montserrat-regular-webfont.svg": "/fithon-front/static/media/montserrat-regular-webfont.79ee020c048c261b0a8e.svg",
+    "static/media/montserrat-light-webfont.svg": "/fithon-front/static/media/montserrat-light-webfont.94b013df481681d3b9ba.svg",
+    "static/media/FitnessForDummies.jpg": "/fithon-front/static/media/FitnessForDummies.03b10c74bf0cbf5c7250.jpg",
+    "static/media/okticon.svg": "/fithon-front/static/media/okticon.415c41974fde3d0d67e5.svg",
+    "static/media/montserrat-light-webfont.eot": "/fithon-front/static/media/montserrat-light-webfont.bced23520571bb9c6786.eot",
+    "static/media/montserrat-regular-webfont.eot": "/fithon-front/static/media/montserrat-regular-webfont.bc9d1c64cc1eb7fe21fc.eot",
+    "static/media/montserrat-light-webfont.ttf": "/fithon-front/static/media/montserrat-light-webfont.d7f374f771a6cf745a5f.ttf",
+    "static/media/montserrat-regular-webfont.ttf": "/fithon-front/static/media/montserrat-regular-webfont.e08993fa295c2e06ddad.ttf",
+    "static/media/okticon.eot": "/fithon-front/static/media/okticon.a812bc2c3773a792b40a.eot",
+    "static/media/okticon.ttf": "/fithon-front/static/media/okticon.af5fd3a28c69172a32bf.ttf",
+    "static/media/radiobutton-01@2x.png": "/fithon-front/static/media/radiobutton-01@2x.2f10e12d6a124337f57b.png",
+    "static/media/checkbox-01@2x.png": "/fithon-front/static/media/checkbox-01@2x.1294dd56f87237b78100.png",
+    "static/media/montserrat-light-webfont.woff": "/fithon-front/static/media/montserrat-light-webfont.47314ef8b3f718bd6b25.woff",
+    "static/media/montserrat-regular-webfont.woff": "/fithon-front/static/media/montserrat-regular-webfont.5623bc4fe19097d3a367.woff",
+    "static/media/radiobutton-01.png": "/fithon-front/static/media/radiobutton-01.06ca91686a22690197da.png",
+    "static/media/okticon.woff": "/fithon-front/static/media/okticon.18ead8fda945421a9af7.woff",
+    "static/media/checkbox-01.png": "/fithon-front/static/media/checkbox-01.eae0329fe0b798560519.png",
+    "static/media/yubikeyDemo.png": "/fithon-front/static/media/yubikeyDemo.5ebed9d6de069129f535.png",
+    "static/media/sign-on-widget-spinner.gif": "/fithon-front/static/media/sign-on-widget-spinner.4d69ec9a0b3a6f2272e5.gif",
+    "static/media/u2f_usb.png": "/fithon-front/static/media/u2f_usb.a1709529eeac1fb1f4ee.png",
+    "static/media/apple-app-store.svg": "/fithon-front/static/media/apple-app-store.8c4986ee4828b47d16f5.svg",
+    "static/media/checkbox-sign-in-widget@2x.png": "/fithon-front/static/media/checkbox-sign-in-widget@2x.c357e3c0ce3a6ad6d0b8.png",
+    "static/media/loader@1x.gif": "/fithon-front/static/media/loader@1x.d322a7ce99c785c18f38.gif",
+    "static/media/google-play-store.svg": "/fithon-front/static/media/google-play-store.1d8f7bc81e1b4193482d.svg",
+    "static/media/user-icon.svg": "/fithon-front/static/media/user-icon.6c8f8491ebb11a78bf68.svg",
+    "index.html": "/fithon-front/index.html",
+    "main.65a517a5.css.map": "/fithon-front/static/css/main.65a517a5.css.map",
+    "main.f9cf278b.js.map": "/fithon-front/static/js/main.f9cf278b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a517a5.css",
+    "static/js/main.f9cf278b.js"
+  ]
+}
