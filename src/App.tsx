@@ -36,6 +36,10 @@ export const App = () => {
         <div className='flex-grow-1'>
           <Switch>
 
+            <Route path="/fithon-front" exact>
+              <HomePage />
+            </Route>
+
             <Route path='/' exact>
               <Redirect to='home' />
             </Route>
@@ -59,9 +63,7 @@ export const App = () => {
             <SecureRoute path='/shelf'><ShelfPage /></SecureRoute>
             <SecureRoute path='/admin'><ManageLibraryPage /></SecureRoute>
 
-            <Route path="*" exact>
-              <Redirect to="/" />
-            </Route>
+            
 
           </Switch>
         </div>
