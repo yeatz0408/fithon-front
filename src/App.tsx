@@ -59,7 +59,7 @@ export const App = () => {
             <SecureRoute path='/shelf'><ShelfPage /></SecureRoute>
             <SecureRoute path='/admin'><ManageLibraryPage /></SecureRoute>
 
-            <Route path="*">
+            <Route path="*" exact>
               <Redirect to="/" />
             </Route>
 
