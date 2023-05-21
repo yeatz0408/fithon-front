@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fithon-front/static/css/main.65a517a5.css",
-    "main.js": "/fithon-front/static/js/main.81e5516c.js",
+    "main.js": "/fithon-front/static/js/main.c3a4abf2.js",
     "static/media/image-4.jpg": "/fithon-front/static/media/image-4.3e2078d97fb938c45a1f.jpg",
     "static/media/image-3.jpg": "/fithon-front/static/media/image-3.6c175bd8b5268b47568f.jpg",
     "static/media/image-2.jpg": "/fithon-front/static/media/image-2.99f697a94ffb0876d62e.jpg",
@@ -33,10 +33,10 @@
     "static/media/user-icon.svg": "/fithon-front/static/media/user-icon.6c8f8491ebb11a78bf68.svg",
     "index.html": "/fithon-front/index.html",
     "main.65a517a5.css.map": "/fithon-front/static/css/main.65a517a5.css.map",
-    "main.81e5516c.js.map": "/fithon-front/static/js/main.81e5516c.js.map"
+    "main.c3a4abf2.js.map": "/fithon-front/static/js/main.c3a4abf2.js.map"
   },
   "entrypoints": [
     "static/css/main.65a517a5.css",
-    "static/js/main.81e5516c.js"
+    "static/js/main.c3a4abf2.js"
   ]
 }
