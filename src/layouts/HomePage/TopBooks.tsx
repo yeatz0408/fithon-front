@@ -41,7 +41,7 @@ export const TopBooks = () => {
                     img: responseJson[key].img
                 });
             }
-
+            console.log(responseJson);
             setBooks(loadedBooks);
             setIsLoading(false);
 
