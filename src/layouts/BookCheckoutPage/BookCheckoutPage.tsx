@@ -38,7 +38,7 @@ export const BookCheckoutPage = () => {
 
         // using FETCH
         const fetchBook = async () => {
-            const baseUrl: string = `https://fithon.herokuapp.com/${bookId}`;
+            const baseUrl: string = `https://fithon.herokuapp.com/api/books/${bookId}`;
 
             const response = await fetch(baseUrl);
 
