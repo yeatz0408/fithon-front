@@ -9,7 +9,7 @@ export const HomePage = () => {
     const { authState } = useOktaAuth();
 
     if (authState && authState.isAuthenticated === false) {
-        alert("是非ログインして全ての機能を確認してください！" +
+        alert("是非ログインして本を貸与したり、返却してみてください！" +
             "\n\nテストID\n" +
             "ID: testuser5@email.com \n" +
             "PW: testtest11");    
